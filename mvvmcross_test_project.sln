@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AndroidSupport", "AndroidSupport", "{4CC46D5F-ECBB-47E7-A3D8-47BD8E045023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomBinding", "CustomBinding", "{50A07ACB-228D-489D-AB6F-C9B4B9B02981}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eventhooks", "Eventhooks", "{B2BEDCCA-AA5B-4D02-9108-432D69B67B75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{CBAB1B2C-5DD9-41DB-B804-567118A8C083}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "iOS-Support", "iOS-Support", "{BACBC0DD-3F69-4CB8-8F29-9D8A9FBEFED5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Navigation", "Navigation", "{9F283558-EC79-47CE-85A0-C93CB16741B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Playground", "Playground", "{56B36E00-F13A-4069-9105-65DD499EB02A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fragments", "Fragments", "{ABEF55A8-9EA4-47D0-838A-0681CCB14C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ABEF55A8-9EA4-47D0-838A-0681CCB14C39} = {4CC46D5F-ECBB-47E7-A3D8-47BD8E045023}
+	EndGlobalSection
+EndGlobal
